@@ -1,0 +1,6 @@
+/hero object
+/rooms object
+/services object
+/spots 8x
+/gallery object
+/reviews object
